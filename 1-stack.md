@@ -1,4 +1,4 @@
-# **Stacks**
+# **Stack**
 Stacks are a type of data structure in Python. When storing data to a stack you put the data you want to add to the top of the stack. Like a stack of pancakes. If you wanted the next pancake in the stack instead of the current then you would take the first pancake off to get to the second. That brings us to LIFO.
 # LIFO or Last In First Out
 Stacks use data in a specific order. That is that the last data added to the stack will be the first to come off the stack to be used or disposed of. We use the push and pop operations to do this.
@@ -53,6 +53,6 @@ Create a stack and add these three prices to it: 12.99, 6.37, and 4.33. Print th
 [solution to problem](https://github.com/payneful/CSE212-Final/solution/stack-solution.py)
 
 ### Other Tutorials: 
-[Set](https://github.com/payneful/CSE212-Final/2-set.md)
+[Set](https://github.com/payneful/CSE212-Final/blob/main/2-set.md)
 <br>
-[Tree](https://github.com/payneful/CSE212-Final/3-tree.md)
+[Tree](https://github.com/payneful/CSE212-Final/blob/main/3-tree.md)

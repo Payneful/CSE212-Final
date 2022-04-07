@@ -16,6 +16,6 @@ Trees are a type of data structure in Python. When used properly you traverse th
 [solution to problem](https://github.com/payneful/CSE212-Final/solution/tree-solution.py)
 
 ### Other Tutorials: 
-[Stack](https://github.com/payneful/CSE212-Final/1-stack.md)
+[Stack](https://github.com/payneful/CSE212-Final/blob/main/1-stack.md)
 <br>
-[Set](https://github.com/payneful/CSE212-Final/2-set.md)
+[Set](https://github.com/payneful/CSE212-Final/blob/main/2-set.md)

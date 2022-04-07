@@ -1,4 +1,4 @@
-# **Sets**
+# **Set**
 Sets are a type of data structure in Python. When storing data to a set it is unordered and unchangeable, but it also does not allow for any duplicate values. This is good when you want only unique values or entries.
 # Mutability
 Since sets are unordered it makes it difficult to find information in the traditional manner. Sets can appear in different orders everytime you use it, so you cannot use an index to look up values in the set. There are a couple different ways you can create a set.
@@ -84,9 +84,9 @@ marbles = {'blue', 'orange', 'green', 'white', 'black', 'purple'}
 # Practice Problem
 Create 2 sets which will be our shopping carts. Add 3 different items to each set. Print each set out. Check what values are the same and which ones are different and print those out. Then add both sets together and print it out.
 
-[solution to problem](https://github.com/payneful/CSE212-Final/solution/set-solution.py)
+[solution to problem](https://github.com/payneful/CSE212-Final/solutions/set-solution.py)
 
 ### Other Tutorials: 
-[Stack](https://github.com/payneful/CSE212-Final/1-stack.md)
+[Stack](https://github.com/payneful/CSE212-Final/blob/main/1-stack.md)
 <br>
-[Tree](https://github.com/payneful/CSE212-Final/3-tree.md)
+[Tree](https://github.com/payneful/CSE212-Final/blob/main/3-tree.md)
