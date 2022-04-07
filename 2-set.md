@@ -84,7 +84,7 @@ marbles = {'blue', 'orange', 'green', 'white', 'black', 'purple'}
 # Practice Problem
 Create 2 sets which will be our shopping carts. Add 3 different items to each set. Print each set out. Check what values are the same and which ones are different and print those out. Then add both sets together and print it out.
 
-[solution to problem](https://github.com/payneful/CSE212-Final/blob/main/solutions/set-solution.py)
+[Possible Solution](https://github.com/payneful/CSE212-Final/blob/main/solutions/set-solution.py)
 
 ### Other Tutorials: 
 [Stack](https://github.com/payneful/CSE212-Final/blob/main/1-stack.md)
