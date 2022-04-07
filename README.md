@@ -19,5 +19,6 @@ This contains different lessons and activites to help you learn about 3 differen
     - Basic Information
     - Traversal
     - Functions of Trees
+    - Time Complexity
     - Example Code
     - Practice Problem

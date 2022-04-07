@@ -1,5 +1,5 @@
 # **Set**
-Sets are a type of data structure in Python. When storing data to a set it is unordered and unchangeable, but it also does not allow for any duplicate values. This is good when you want only unique values or entries.
+Sets are another data structure in Python. When storing data to a set it is unordered and unchangeable, but it also does not allow for any duplicate values. This is good when you want only unique values or entries.
 # Mutability
 Since sets are unordered it makes it difficult to find information in the traditional manner. Sets can appear in different orders everytime you use it, so you cannot use an index to look up values in the set. There are a couple different ways you can create a set.
 # Functions of Sets
