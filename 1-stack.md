@@ -50,7 +50,7 @@ for value in stack:
 # Practice Problem
 Create a stack and add these three prices to it: 12.99, 6.37, and 4.33. Print the size of their price list. Then remove the last price entered into the stack and print it. Then add each price left in the stack together and print it out.
 
-[solution to problem](https://github.com/payneful/CSE212-Final/solution/stack-solution.py)
+[solution to problem](https://github.com/payneful/CSE212-Final/blob/main/solution/stack-solution.py)
 
 ### Other Tutorials: 
 [Set](https://github.com/payneful/CSE212-Final/blob/main/2-set.md)
